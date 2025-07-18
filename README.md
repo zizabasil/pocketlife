@@ -1,3 +1,5 @@
+This is only a readme repository for the Pocket Life App.
+
 # Pocket Life
 
 Welcome to your daily dose of inspiration and reflection! This app brings you a new Bible verse each day that you can reflect, easily set as a favorite or share with friends. 
@@ -14,5 +16,3 @@ Need a little nudge?
 Set reminders for daily verse, prayer time, journaling and challenges so you never miss a moment. Plus, you’ll get helpful notifications to keep you on track. You can even check out your mood in a pie chart and track your prayer status with a handy bar chart. 
 
 It’s a simple, personal space to grow in faith and stay connected.
-
-*This is only a readme repository for the Pocket Life App.
