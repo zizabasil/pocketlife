@@ -1,4 +1,4 @@
-This is only a readme repository for the Pocket Life App.
+This is only a docs repository for the Pocket Life App
 
 # Pocket Life
 
